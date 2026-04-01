@@ -9,8 +9,8 @@ vector<int> vec;
 void func(int cnt) {
 
 
-
-
+    int temp;
+    cnt = temp
 
 
 
